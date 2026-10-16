@@ -16,4 +16,4 @@ r = v.integral().sfc(0, (0, 0))          # r(0) = origin
 r.y.put(7)                               # y at t = 7
 ```
 
-Flat modules, standard library only. No tests or license yet.
+Flat modules, standard library only. MIT licensed. No tests yet.
